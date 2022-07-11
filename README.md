@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello :)
 
-<!--
-**ElisaTronetti/ElisaTronetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi everyone, I'm Elisa.
+I am an italian software engineer.
 
-Here are some ideas to get you started:
+I have a Bachelor Degree in Software Engineering and Computer Science, attended in the University of Bologna.
+I am currently studying for my Master Degree in Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaTronetti&layout=compact&theme=dark&hide_border=true)
+
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=ElisaTronetti&show_icons=true&hide_border=true&theme=dark)
+
+### What's life without a good joke?
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
