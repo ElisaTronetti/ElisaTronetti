@@ -8,7 +8,7 @@ I am currently studying for my Master Degree in Software Engineering.
 
 ## Stats
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=ElisaTronetti&show_icons=true&hide_border=true&theme=dark&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaTronetti&layout=compact&theme=dark&hide_border=true)
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=ElisaTronetti&show_icons=true&hide_border=true&theme=dark&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaTronetti&langs_count=10&layout=compact&theme=dark&hide_border=true)
 
 ## What's life without a good joke?
 
